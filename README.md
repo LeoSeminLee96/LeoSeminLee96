@@ -35,9 +35,9 @@ PyTorch, TensorFlow, Scikit-Learn, Pandas, Numpy
 
 ### 📫 Contact
 <div align="center">
-  <a href="https://imperialtechnic.notion.site/Kaiserliche-Hofburg-865c7d277acc4ac5bed9e187575d3c02?pvs=74" title="Notion">
-    <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" width="80" height="80"/>
-  </a>&nbsp;
+  <a href="https://imperiumcyberneticumregale-8d5e92.gitlab.io" title="my website">
+  <img src="https://raw.githubusercontent.com/AugustvonMackensen/logo/main/logo.png" alt="My Website"/>
+</a>
   <a href="https://www.linkedin.com/in/seminleekorea" title="LinkedIn">
     <img src="http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin" width="80" height="80"/>
   </a>&nbsp;
