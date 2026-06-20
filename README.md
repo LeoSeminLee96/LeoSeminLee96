@@ -30,12 +30,3 @@ Python, C, C++, Java
 
 ### 🧰 AI & Data Tools  
 PyTorch, TensorFlow, Scikit-Learn, Pandas, Numpy
-
----
-
-### 📫 Contact
-<div align="center">
-  <a href="https://imperiumcyberneticumregale-8d5e92.gitlab.io" title="my website">
-  <img src="https://raw.githubusercontent.com/AugustvonMackensen/logo/main/logo.png" alt="My Website"/>
-</a>
-</div>
